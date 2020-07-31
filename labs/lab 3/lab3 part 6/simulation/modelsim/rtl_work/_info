@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/CPE 64/lab 3/code lab3/lab3 part 6/simulation/modelsim
+vcomparator_both
+!s110 1524103207
+!i10b 1
+!s100 1RGjiiQ=@2GKE83Yg4U_71
+I`^@QXIbZWj_VTk8Nm0E<V2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1524026610
+8E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both.v
+FE:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1524103207.000000
+!s107 E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CPE 64/lab 3/code lab3/lab3 part 6|E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+E:/CPE 64/lab 3/code lab3/lab3 part 6}
+tCvgOpt 0

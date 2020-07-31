@@ -1,0 +1,8 @@
+|lab4part3_D
+D => R.IN0
+Q << Q.DB_MAX_OUTPUT_PORT_TYPE
+QN << QN.DB_MAX_OUTPUT_PORT_TYPE
+CLK => S.IN0
+CLK => R.IN0
+
+

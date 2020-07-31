@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu May 03 19:21:27 2018
+Quartus Prime Version : 17.0.1 Build 598 06/07/2017 SJ Lite Edition
+Revision Name : NAND_DLatch
+Top-level Entity Name : NAND_DLatch
+Family : Cyclone IV E
+Total logic elements : 5
+    Total combinational functions : 5
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 6
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

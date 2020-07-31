@@ -1,0 +1,28 @@
+|lab4part6
+CLK => q1~reg0.CLK
+CLK => q7~reg0.CLK
+CLK => q6~reg0.CLK
+CLK => q5~reg0.CLK
+CLK => q4~reg0.CLK
+CLK => q3~reg0.CLK
+CLK => q2~reg0.CLK
+CLK => q0~reg0.CLK
+I => q0~reg0.DATAIN
+RES => q7~reg0.ACLR
+RES => q6~reg0.ACLR
+RES => q5~reg0.ACLR
+RES => q4~reg0.ACLR
+RES => q3~reg0.ACLR
+RES => q2~reg0.ACLR
+RES => q0~reg0.ACLR
+RES => q1~reg0.ENA
+q0 << q0~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q1 << q1~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q2 << q2~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q3 << q3~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q4 << q4~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q5 << q5~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q6 << q6~reg0.DB_MAX_OUTPUT_PORT_TYPE
+q7 << q7~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

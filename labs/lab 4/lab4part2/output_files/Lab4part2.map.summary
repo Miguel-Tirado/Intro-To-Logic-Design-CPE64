@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 26 18:56:22 2018
+Quartus Prime Version : 17.0.1 Build 598 06/07/2017 SJ Lite Edition
+Revision Name : Lab4part2
+Top-level Entity Name : Lab4part2
+Family : Cyclone IV E
+Total logic elements : 2
+    Total combinational functions : 2
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 4
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

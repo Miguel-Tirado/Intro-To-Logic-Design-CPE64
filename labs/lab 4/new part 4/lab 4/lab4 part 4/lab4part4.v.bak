@@ -1,0 +1,1 @@
+module lab4part4(PR, CR, CLK, D, Q,QN)

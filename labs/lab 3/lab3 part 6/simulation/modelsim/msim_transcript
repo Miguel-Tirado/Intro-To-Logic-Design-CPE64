@@ -1,0 +1,53 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do comparator_both_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+E:/CPE\ 64/lab\ 3/code\ lab3/lab3\ part\ 6 {E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:00:07 on Apr 18,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CPE 64/lab 3/code lab3/lab3 part 6" E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both.v 
+# -- Compiling module comparator_both
+# 
+# Top level modules:
+# 	comparator_both
+# End time: 19:00:07 on Apr 18,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+E:/CPE\ 64/lab\ 3/code\ lab3/lab3\ part\ 6 {E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:00:07 on Apr 18,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+E:/CPE 64/lab 3/code lab3/lab3 part 6" E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v 
+# -- Compiling module comparator_both_tb
+# ** Error: E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(8): (vlog-2730) Undefined variable: 'a0'.
+# ** Error: E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(8): (vlog-2730) Undefined variable: 'a1'.
+# ** Error: E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(8): (vlog-2730) Undefined variable: 'a2'.
+# ** Error: E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(9): (vlog-2730) Undefined variable: 'b0'.
+# ** Error: E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(9): (vlog-2730) Undefined variable: 'b1'.
+# ** Error: E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(9): (vlog-2730) Undefined variable: 'b2'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(11): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(12): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(15): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(16): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(19): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(20): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(23): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(24): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(27): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(28): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(31): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# ** Error: (vlog-13069) E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v(32): near "b": syntax error, unexpected IDENTIFIER, expecting ';'.
+# End time: 19:00:08 on Apr 18,2018, Elapsed time: 0:00:01
+# Errors: 18, Warnings: 0
+# ** Error: C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./comparator_both_run_msim_rtl_verilog.do line 10
+# C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+E:/CPE\ 64/lab\ 3/code\ lab3/lab3\ part\ 6 {E:/CPE 64/lab 3/code lab3/lab3 part 6/comparator_both_tb.v}"

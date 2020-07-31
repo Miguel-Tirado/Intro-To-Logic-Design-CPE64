@@ -1,0 +1,7 @@
+|lab4part1
+R => NQ.IN0
+S => Q.IN1
+Q << Q.DB_MAX_OUTPUT_PORT_TYPE
+NQ << NQ.DB_MAX_OUTPUT_PORT_TYPE
+
+

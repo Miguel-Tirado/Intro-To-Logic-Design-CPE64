@@ -1,0 +1,53 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+# do NAND_DLatch_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/tiradom/Desktop/lab4part4 {C:/Users/tiradom/Desktop/lab4part4/NAND_DLatch.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:37:11 on May 03,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/tiradom/Desktop/lab4part4" C:/Users/tiradom/Desktop/lab4part4/NAND_DLatch.v 
+# -- Compiling module NAND_DLatch
+# 
+# Top level modules:
+# 	NAND_DLatch
+# End time: 19:37:12 on May 03,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/tiradom/Desktop/lab4part4 {C:/Users/tiradom/Desktop/lab4part4/NAND_DLatch_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:37:12 on May 03,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/tiradom/Desktop/lab4part4" C:/Users/tiradom/Desktop/lab4part4/NAND_DLatch_tb.v 
+# -- Compiling module NAND_DLatch_tb
+# 
+# Top level modules:
+# 	NAND_DLatch_tb
+# End time: 19:37:12 on May 03,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  NAND_DLatch_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" NAND_DLatch_tb 
+# Start time: 19:37:12 on May 03,2018
+# Loading work.NAND_DLatch_tb
+# Loading work.NAND_DLatch
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : C:/Users/tiradom/Desktop/lab4part4/NAND_DLatch_tb.v(17)
+#    Time: 100 ps  Iteration: 0  Instance: /NAND_DLatch_tb
+# 1
+# Break in Module NAND_DLatch_tb at C:/Users/tiradom/Desktop/lab4part4/NAND_DLatch_tb.v line 17
+# WARNING: No extended dataflow license exists
+# End time: 19:43:54 on May 03,2018, Elapsed time: 0:06:42
+# Errors: 0, Warnings: 1

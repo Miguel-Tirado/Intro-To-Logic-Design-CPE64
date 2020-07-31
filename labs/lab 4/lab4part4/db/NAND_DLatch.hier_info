@@ -1,0 +1,13 @@
+|NAND_DLatch
+PR => Q.IN0
+PR => n1.IN0
+CR => QN.IN0
+CR => n3.IN1
+CR => S.IN1
+CLK => S.IN1
+CLK => n2.IN0
+D => n3.IN1
+Q << Q.DB_MAX_OUTPUT_PORT_TYPE
+QN << QN.DB_MAX_OUTPUT_PORT_TYPE
+
+

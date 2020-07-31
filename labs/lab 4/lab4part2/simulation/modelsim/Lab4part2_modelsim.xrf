@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/tiradom/Desktop/lab4part2/Lab4part2.v
+source_file = 1, C:/Users/tiradom/Desktop/lab4part2/Lab4part2_tb.v
+source_file = 1, C:/Users/tiradom/Desktop/lab4part2/db/Lab4part2.cbx.xml
+design_name = Lab4part2
+instance = comp, \Q~output , Q~output, Lab4part2, 1
+instance = comp, \NQ~output , NQ~output, Lab4part2, 1
+instance = comp, \S~input , S~input, Lab4part2, 1
+instance = comp, \R~input , R~input, Lab4part2, 1
+instance = comp, \Q~1 , Q~1, Lab4part2, 1
+instance = comp, \NQ~0 , NQ~0, Lab4part2, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1

@@ -1,0 +1,8 @@
+module Lab4part2(S,R,Q,NQ);
+	input R,S;
+	output Q,NQ;
+	
+	assign NQ = ~(S|Q);
+	assign Q = ~(R|NQ);
+	
+endmodule 

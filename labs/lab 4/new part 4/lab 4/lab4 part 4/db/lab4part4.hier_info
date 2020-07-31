@@ -1,0 +1,12 @@
+|lab4part4
+PR => n4.IN1
+PR => n6.IN1
+CR => n1.IN0
+CR => n3.IN1
+CR => n5.IN0
+CLK => n3.IN2
+D => n1.IN1
+Q << Q.DB_MAX_OUTPUT_PORT_TYPE
+QN << n5.DB_MAX_OUTPUT_PORT_TYPE
+
+

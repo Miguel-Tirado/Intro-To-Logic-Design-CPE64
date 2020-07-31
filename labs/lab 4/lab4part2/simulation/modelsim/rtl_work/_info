@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/tiradom/Desktop/lab4part2/simulation/modelsim
+vLab4part2
+Z1 !s110 1524794205
+!i10b 1
+!s100 K=Y]k01N[VWYMHLiG6F1c1
+IVKVi>^JBnii1oRBVC=Vb[1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1524793850
+8C:/Users/tiradom/Desktop/lab4part2/Lab4part2.v
+FC:/Users/tiradom/Desktop/lab4part2/Lab4part2.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1524794205.000000
+!s107 C:/Users/tiradom/Desktop/lab4part2/Lab4part2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/tiradom/Desktop/lab4part2|C:/Users/tiradom/Desktop/lab4part2/Lab4part2.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/tiradom/Desktop/lab4part2
+Z7 tCvgOpt 0
+n@lab4part2
+vLab4part2_tb
+R1
+!i10b 1
+!s100 8AF[^]Sc]zgo3H^::j5VE2
+IaTZ@IXJM29lSOl0OT1XT71
+R2
+R0
+w1524794170
+8C:/Users/tiradom/Desktop/lab4part2/Lab4part2_tb.v
+FC:/Users/tiradom/Desktop/lab4part2/Lab4part2_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/tiradom/Desktop/lab4part2/Lab4part2_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/tiradom/Desktop/lab4part2|C:/Users/tiradom/Desktop/lab4part2/Lab4part2_tb.v|
+!i113 1
+R5
+R6
+R7
+n@lab4part2_tb

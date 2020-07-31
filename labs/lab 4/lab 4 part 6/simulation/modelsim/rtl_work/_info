@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/simulation/modelsim
+vlab4part6
+Z1 !s110 1525915167
+!i10b 1
+!s100 ^k5DC2JbIz_^iRPkMk6AC1
+ImQkHPII9kN]loD`]@eRR_3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1525912309
+8C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6.v
+FC:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1525915167.000000
+!s107 C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6|C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6}
+Z7 tCvgOpt 0
+vlab4part6_tb
+R1
+!i10b 1
+!s100 M5jT0F?Q]z_L5aXac9jRc1
+I<ALfhL2f@Bf_nSbHoHcbP2
+R2
+R0
+w1525914431
+8C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6_tb.v
+FC:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6|C:/Users/Miguel Tirado/Desktop/CPE 64 labs/lab 4/lab 4 part 6/lab4part6_tb.v|
+!i113 1
+R5
+R6
+R7

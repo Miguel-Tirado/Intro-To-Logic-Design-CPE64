@@ -1,0 +1,15 @@
+module NAND_DLatch (PR, CR, CLK, D, Q, QN);
+	input PR, CR, CLK,D;
+	output Q,QN;
+	
+	wire n1,n2,n3;
+	
+	assign Q = ~(PR & S & QN);
+	assign QN = ~(R & Q & n2);
+	assign S = ~(n1 & CR & CLK);
+	assign R = CR;
+	assign n1 = ~(PR & n3 & S);
+	assign n2 = ~(CLK & S & n3);
+	assign n3 = ~(n2 & D & R);
+	
+endmodule 
